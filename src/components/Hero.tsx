@@ -94,7 +94,7 @@ const Hero = () => {
                         View My Work <ArrowRight size={20} />
                     </a>
                     <Link
-                        href="https://drive.google.com/file/d/1y90XdMJbJ-DCEitNy6Wu_KA5s9QFy2Qd/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1Xc2RAGhLuJQcNbCLSOJ2qrh3bJwejwQY/view?usp=sharing"
                         target="_blank"
                         className="flex items-center gap-2 rounded-lg border border-gray-700 bg-white/5 px-8 py-4 text-lg font-bold text-white backdrop-blur-md transition-all hover:bg-white/10 hover:border-white/30"
                     >
