@@ -1,36 +1,115 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🌐 Priya Portfolio
 
-## Getting Started
+A modern, responsive personal portfolio website showcasing my skills, projects, and contact information. The portfolio features a sleek dark-themed interface with interactive physics-based animations, providing an engaging experience for visitors while highlighting my work as a Software Developer.
 
-First, run the development server:
+🚀 Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 Portfolio: https://priya-portfolio-nine.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+📖 Description
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This portfolio is designed to present my technical skills, projects, and professional background in an attractive and interactive way. It includes smooth animations, cursor attraction effects powered by Matter.js, and a responsive layout that works seamlessly across desktops, tablets, and mobile devices.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* 🎨 Modern dark-themed user interface
+* 🖱️ Interactive cursor attraction physics using Matter.js
+* 📱 Fully responsive design for all screen sizes
+* ⚡ Smooth animations and transitions
+* 📂 Project showcase section
+* 👩 About Me section
+* 📧 Contact section with multiple communication options
+* 🌐 Social media integration
+* 🚀 Fast loading and optimized performance
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+🛠️ Technology Stack
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* HTML5
+* Tailwind CSS
+* JavaScript (ES6)
+* Matter.js
+* Google Fonts
+* SVG Icons
+* Vercel (Deployment)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+📥 Installation
+
+Clone the repository
+
+bash
+git clone https://github.com/priy23/portfolio-website.git
+
+
+Navigate into the project
+
+bash
+cd portfolio-website
+
+Install dependencies (if applicable)
+
+bash
+npm install
+
+
+Build Tailwind CSS
+
+npm run build
+
+Run the project
+
+Open the `index.html` file in your browser or start a local development server.
+
+
+ 📁 Folder Structure
+
+text
+portfolio-website/
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── fonts/
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   ├── script.js
+│   └── matter.js
+│
+├── mockups/
+│
+├── index.html
+├── README.md
+└── package.json
+
+
+🎯 Future Improvements
+
+* 🌗 Add Dark/Light Mode Toggle
+* 📂 Load project details dynamically from JSON
+* 🌍 Multi-language support
+* 📄 Download Resume feature
+* 📝 Integrated Blog Section
+* 📊 Visitor Analytics Dashboard
+* 📬 Contact Form with Email API
+* ⚡ Performance optimization and accessibility improvements
+
+👩 Author
+
+Priya Kumari
+
+* 💼 LinkedIn: https://www.linkedin.com/in/priya-kumari-a8180928a
+* 🌐 Portfolio: https://priya-portfolio-nine.vercel.app/
+* 💻 GitHub: https://github.com/priy23
+* 📧 Email: [pkumari61002@gmail.com](mailto:pkumari61002@gmail.com)
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
